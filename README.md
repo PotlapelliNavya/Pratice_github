@@ -1,2 +1,2 @@
 # Pratice_github
-my info
+my info abour project
