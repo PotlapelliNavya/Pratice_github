@@ -1,2 +1,3 @@
 # Pratice_github
 my info abour project........... 
+smalll changes 
